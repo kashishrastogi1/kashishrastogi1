@@ -5,6 +5,7 @@
 - 📫 How to reach me ...
 
 [![kashishrastogi1's GitHub | Stats](https://stats.quine.sh/kashishrastogi1/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=kashishrastogi1)
+[![kashishrastogi1's GitHub | Languages Over Time](https://stats.quine.sh/kashishrastogi1/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=kashishrastogi1)
 
 <!---
 kashishrastogi1/kashishrastogi1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
